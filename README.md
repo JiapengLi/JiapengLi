@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working on LPWAN IoT projects
 - ⚡ LoRaWAN / LoRa / C / MCU
-- 📫 Reach me: [WeChat](https://img.risinghf.com/20200919-133931-350.png)  [Twitter]( https://twitter.com/morlcy) [Telegram](https://t.me/jiapengli)
+- 📫 Reach me: [WeChat](https://img.jiapeng.me/20200919-133931-350.png)  [Twitter]( https://twitter.com/morlcy) [Telegram](https://t.me/jiapengli)
 
 😀
 <!--
@@ -9,7 +9,7 @@
 
 Here are some ideas to get you started:
 
-<img src="https://img.risinghf.com/20200919-133931-350.png" alt="8186e4d0072a14703a3712a7f874ffd6" style="zoom:67%;" />
+<img src="https://img.jiapeng.me/20200919-133931-350.png" alt="8186e4d0072a14703a3712a7f874ffd6" style="zoom:67%;" />
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
